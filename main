@@ -1,0 +1,18 @@
+#include <iostream>
+
+using namespace std;
+
+int main(){
+	int i, n, x, y, z;
+	
+	cin>>n;
+	
+	for(i = 0; i<n; i++){
+		y = 2*i;
+		x = y*z;
+		cout << i << endl;
+		
+	}
+
+	return 0;
+}
